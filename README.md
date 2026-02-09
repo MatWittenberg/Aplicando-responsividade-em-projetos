@@ -10,6 +10,7 @@ O objetivo foi adaptar interfaces originalmente desktop-only para diferentes tam
 
 ---
 
+## 🔎 O que foi trabalhado
 
 ## 🔎 O que foi trabalhado
 
@@ -28,7 +29,7 @@ O objetivo foi adaptar interfaces originalmente desktop-only para diferentes tam
 * HTML5
 * CSS3
 
----
+A---
 
 ## 💻 Projeto
 
