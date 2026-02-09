@@ -10,7 +10,7 @@ Desafio prático - Adicionando responsividade em projetos realizados durante o c
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/Thumbnail.png" width="60%">
+  <img alt="Preview do projeto desenvolvido." src="github/Thumbnail.png" width="60%">
 </p>
 
 
