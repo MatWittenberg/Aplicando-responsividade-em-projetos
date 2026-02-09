@@ -1,13 +1,43 @@
 main {
-  div {
+  & header{
+    margin-top: 1.5rem;
     display: grid;
-    grid-template-columns: 24rem 24rem;
+    justify-items: center;
+    text-align: center;
     gap: 1rem;
-
+    margin-bottom: 1rem;
   }
 
-  & img {
-    width: 22.5rem;
-    width: 22.5rem;
+  & section {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+
+    & img{
+      border-radius: .3125rem;
+    }
+  }
+}
+
+@media (width >= 80em) {
+  main {
+    & section {
+      display: grid;
+      margin: 1.5rem;
+      grid-template-columns: 1fr 1fr; 
+      gap: 1.25rem;
+      justify-items: center; 
+
+      & a img {
+        width: 31rem;
+        height: auto;
+      }
+
+      & a:nth-child(3) {
+        grid-column: 1 / -1;
+        display: flex;
+        justify-content: center;
+      }
+    }
   }
 }
