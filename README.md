@@ -1,5 +1,10 @@
 # 📱 Projetos Responsivos
 
+<p align="center">
+  <img src=".github/Thumbnail.png" alt="Preview do projeto" width="80%">
+</p>
+
+
 Desafio prático de responsividade aplicando técnicas de layout moderno em páginas previamente desenvolvidas durante o curso.
 
 O objetivo foi adaptar interfaces originalmente desktop-only para diferentes tamanhos de tela (mobile, tablet e desktop), garantindo boa experiência de uso em qualquer dispositivo.
