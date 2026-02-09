@@ -1,0 +1,32 @@
+footer {
+  flex-wrap: wrap;
+  padding-block: 1rem;
+  gap: 1rem;
+
+  font: .875rem/150% var(--font-family);
+  justify-content: center;
+  text-align: center;
+
+  & span:first-child {
+    flex-basis: 100%;
+  }
+}
+
+@media (width >=80em) {
+  footer {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    text-align: initial;
+    padding-block: 1.5rem;
+    gap: 1.5rem;
+
+    & span:nth-child(1) {
+      margin-right: auto;
+    }
+
+    & span:first-child {
+      flex-basis: auto;
+      margin-right: auto;
+    }
+  }
+}
