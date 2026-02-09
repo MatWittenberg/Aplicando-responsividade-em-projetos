@@ -1,28 +1,47 @@
-<p align="center"> 
-Desafio prático - Adicionando responsividade em projetos realizados durante o curso.
-</p>
+# 📱 Projetos Responsivos
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-descrição">Descrição do projeto</a>
+  <img src=".github/Thumbnail.png" alt="Preview do projeto" width="80%">
 </p>
 
-<br>
+Desafio prático de responsividade aplicando técnicas de layout moderno em páginas previamente desenvolvidas durante o curso.
 
-<p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/Thumbnail.png" width="60%">
-</p>
+O objetivo foi adaptar interfaces originalmente desktop-only para diferentes tamanhos de tela (mobile, tablet e desktop), garantindo boa experiência de uso em qualquer dispositivo.
+
+---
 
 
-## Tecnologias
+## 🔎 O que foi trabalhado
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+* Mobile First
+* Media Queries
+* Flexbox
+* CSS Grid
+* Adaptação de imagens e containers
+* Correção de overflow e alinhamento
+* Estados de interação (hover/focus)
 
-- HTML
-- CSS
+---
 
-## Descrição
+## 🚀 Tecnologias
 
-<p align="center">
-  Transformei layouts que ainda não estão responsivos em layouts responsivos.
-</p>
+* HTML5
+* CSS3
+
+---
+
+## 💻 Projeto
+
+Foram adaptadas três interfaces:
+
+* Perfil de viagens
+* Portal de notícias
+* Formulário de matrícula
+
+Todos os layouts funcionam corretamente em telas pequenas e grandes, mantendo hierarquia visual e legibilidade.
+
+---
+
+## 🎯 Objetivo
+
+Praticar conceitos fundamentais de responsividade utilizados no desenvolvimento front-end profissional, simulando situações reais de ajuste de layout para múltiplos dispositivos.
