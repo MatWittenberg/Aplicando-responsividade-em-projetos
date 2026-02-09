@@ -1,5 +1,5 @@
 main {
-  & header{
+  & header {
     margin-top: 1.5rem;
 
     justify-items: center;
@@ -11,26 +11,38 @@ main {
   & section {
     display: flex;
     flex-direction: column;
-    gap: .5rem;
+    gap: 1rem;
 
-    & img{
+    & img {
+      display: block;
+      width: 100%;
+      height: auto;
       border-radius: .3125rem;
     }
   }
+
+  & a {
+    position: relative;
+  }
+
+  & a:hover {
+    outline: .1rem solid #8234E9;
+    outline-offset: 2px;
+  }
+
 }
 
-@media (width >= 80em) {
+@media (width >=80em) {
   main {
     & section {
       display: grid;
       margin: 1.5rem;
-      grid-template-columns: 1fr 1fr; 
+      grid-template-columns: 1fr 1fr;
       gap: 1.25rem;
-      justify-items: center; 
+      justify-items: center;
 
       & a img {
         width: 31rem;
-        height: auto;
       }
 
       & a:nth-child(3) {
