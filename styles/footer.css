@@ -1,0 +1,15 @@
+footer{
+  & p{
+    margin-top: 1.5rem;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (width >= 80em){
+  footer{
+  & p{
+    margin-block: 2rem 1rem;
+  }
+}
+}
