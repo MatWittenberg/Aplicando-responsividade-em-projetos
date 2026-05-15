@@ -1,8 +1,8 @@
 # 📱 Projetos Responsivos
 
-<p align="center">
-  <img src=".github/Thumbnail.png" alt="Preview do projeto" width="80%">
-</p>
+ <a href="https://matwittenberg.github.io/Aplicando-responsividade-em-projetos/">
+ <img src=".github/Thumbnail.png" alt="Preview do projeto" width="80%">
+  </a>
 
 Desafio prático de responsividade aplicando técnicas de layout moderno em páginas previamente desenvolvidas durante o curso.
 
